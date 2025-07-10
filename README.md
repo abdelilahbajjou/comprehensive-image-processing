@@ -20,7 +20,7 @@ This project was developed as part of a comprehensive Computer Vision course pra
 ### MATLAB Implementation - Complete Filtering Suite
 A comprehensive collection of image processing filters and enhancement techniques:
 
-#### 🔍 **Spatial Domain Filters**
+#### **Spatial Domain Filters**
 - **Low-Pass Filters**: 
   - `FiltragePassePas_Callback` - Basic low-pass filtering
   - `Moyenneur3_3_Callback` - 3x3 averaging filter
@@ -149,9 +149,6 @@ The MATLAB interface provides access to 40+ different filtering and processing t
 ## Documentation
 
 - **[Complete Academic Report](report/academic_report.pdf)** - Detailed theoretical analysis and experimental results
-- **[Technical Specifications](docs/technical_specifications.md)** - Implementation details and algorithms
-- **[MATLAB Functions Reference](docs/matlab_functions_list.md)** - Complete list of 40+ implemented functions
-- **[Usage Examples](docs/usage_examples.md)** - Step-by-step tutorials and examples
 
 ## Technical Implementation
 
@@ -204,7 +201,7 @@ This toolkit is suitable for:
 - `tkinter` (usually included with Python)
 
 ### MATLAB Requirements
-- MATLAB R2018b or later
+- MATLAB R2013a or later
 - Image Processing Toolbox
 - Signal Processing Toolbox (for frequency domain operations)
 
