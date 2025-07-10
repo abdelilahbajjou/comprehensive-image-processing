@@ -1,4 +1,3 @@
-# comprehensive-image-processing
 # Comprehensive Image Processing & Filtering Toolkit
 
 A complete image processing suite implementing various filtering techniques, morphological operations, and image enhancement methods using Python (Tkinter) and MATLAB.
