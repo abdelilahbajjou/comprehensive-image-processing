@@ -107,7 +107,7 @@ comprehensive-image-processing/
 ## Installation & Setup
 
 ### Python Environment
-git clone https://github.com/yourusername/comprehensive-image-processing.git
+git clone https://github.com/abdelilahbajjou/comprehensive-image-processing.git
 cd comprehensive-image-processing
 
 # Install Python dependencies
